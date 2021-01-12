@@ -1,4 +1,4 @@
-# ![React + Redux Example App Test](project-logo.png)
+# ![React + Redux Example App b Test](project-logo.png)
 
 > Example React + Redux codebase that adheres to the [RealWorld](https://github.com/gothinkster/realworld-example-apps) spec and API.
 
